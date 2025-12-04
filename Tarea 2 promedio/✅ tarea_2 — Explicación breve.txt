@@ -1,0 +1,5 @@
+✅ tarea_2 — Explicación breve
+
+Este ejercicio muestra un formulario donde el usuario introduce cuatro calificaciones en TextBox.
+El programa suma las cuatro notas, calcula el promedio dividiéndolo entre 4 y muestra el resultado en un Label con el texto:
+“El promedio es [promedio]”.
