@@ -1,0 +1,16 @@
+✅ tarea_3 — Explicación breve
+
+Este ejercicio permite calcular el sueldo de un empleado a partir del pago por hora y las horas trabajadas.
+El programa calcula:
+
+Sueldo bruto
+
+Descuento AFP (2.87%)
+
+Descuento SFS (3.04%)
+
+Descuento adicional de 700 pesos
+
+Total de descuentos
+
+Sueldo neto

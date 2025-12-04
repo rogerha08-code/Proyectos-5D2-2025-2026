@@ -1,0 +1,16 @@
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\bin\Debug\net10.0-windows\Tarea 3 pagos.exe
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\bin\Debug\net10.0-windows\Tarea 3 pagos.deps.json
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\bin\Debug\net10.0-windows\Tarea 3 pagos.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\bin\Debug\net10.0-windows\Tarea 3 pagos.dll
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\bin\Debug\net10.0-windows\Tarea 3 pagos.pdb
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea_3_pagos.Form1.resources
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea 3 pagos.csproj.GenerateResource.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea 3 pagos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea 3 pagos.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea 3 pagos.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea 3 pagos.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea 3 pagos.dll
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\refint\Tarea 3 pagos.dll
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea 3 pagos.pdb
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\Tarea 3 pagos.genruntimeconfig.cache
+C:\Users\roger\OneDrive\Desktop\Roger Hamer saviñon Natera\C#\Tarea 3 pagos\Tarea 3 pagos\obj\Debug\net10.0-windows\ref\Tarea 3 pagos.dll
