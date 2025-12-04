@@ -1,0 +1,4 @@
+✅ tarea_1 — Explicación breve
+
+Este ejercicio muestra un formulario que permite introducir dos números en TextBox y realizar con ellos las operaciones básicas: suma, resta, multiplicación y división.
+Cada resultado se muestra en un Label diferente después de presionar el botón de calcular.
