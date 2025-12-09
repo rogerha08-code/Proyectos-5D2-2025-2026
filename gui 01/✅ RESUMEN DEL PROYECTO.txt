@@ -1,0 +1,14 @@
+✅ RESUMEN DEL PROYECTO 
+
+El formulario debe permitir ingresar el pago por hora, horas trabajadas y activar una casilla para horas extras, lo cual habilita un cuadro para escribir cuántas horas extras hizo.
+
+Debe calcular:
+
+Sueldo normal = pago por hora × horas trabajadas
+
+Pago por horas extras = horas extras × (pago por hora × 1.35)
+
+Total general = sueldo normal + horas extras
+
+En un GroupBox se mostrarán los tres resultados.
+El formulario tendrá botón Calcular, Limpiar y Cerrar.
